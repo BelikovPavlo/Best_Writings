@@ -1,0 +1,48 @@
+.Price {
+    background-color: var(--color_main_1);
+    height: 650px;
+}
+
+.block_h2 {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid #fff;
+    background: #ffffff;
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+.span1 {
+    color: red;
+}
+
+.h4 {
+    font-size: 30px;
+    display: inline-block;
+    color: #fff;
+    margin-left: 90px;
+    font-family: 'Courier New', Courier, monospace;
+} 
+
+#input1 {
+    display: flexbox;
+    width: 400px;
+    height: 60px;
+    margin-left: 90px;
+}
+
+span {
+    width: 400px;
+    height: 60px;
+    margin-left: 90px;
+    font-size: 55px;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
