@@ -10,6 +10,15 @@
     background: #ffffff;
     width: 90%;
     margin: 0 auto;
+    position: relative;
+}
+
+.block_h2 img {
+    height: 114px;
+    margin-right: 5px;
+    margin-left: 700px;
+    position: absolute;
+    display: inline-block;
 }
 
 
@@ -38,7 +47,14 @@ span {
     margin-left: 90px;
     font-size: 55px;
     text-transform: uppercase;
+    color: #fff;
 }
+
+#price {
+    font-size: 17px;
+}
+
+
 
 
 
